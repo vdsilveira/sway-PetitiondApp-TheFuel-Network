@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "@fuel-wallet/sdk": "^0.13.0",
+    "fuels": "^0.60.0"
+  }
+}
